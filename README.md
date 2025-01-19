@@ -1,3 +1,13 @@
+## QB-Core Support
+Re-added QB-Core support since it was dropped from the original version of ox_target
+
+## NoPixel 4 inspired Sprites
+Changed the default target sprites to the NoPixel Inspired sprites
+
+# Preview
+![image](https://cdn.discordapp.com/attachments/1327681775689924680/1330642608455815209/image.png?ex=678eb900&is=678d6780&hm=3721ec7350ec0e19f03f945247cfd1642e1d06a763c9a3ee75e36f745d7286a7&)
+![image](https://cdn.discordapp.com/attachments/1327681775689924680/1330642672787918848/image.png?ex=678eb90f&is=678d678f&hm=2dd10668b61cdaf077e0eda2923176c02c30bf51f4f087d7df3e88606884d919&)
+
 # ox_target
 
 ![](https://img.shields.io/github/downloads/overextended/ox_target/total?logo=github)
